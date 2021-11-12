@@ -14,120 +14,153 @@ Data types specifies the different size and values that can be stored in the var
       1. **boolean data type :** boolean store only one bit of information either true or false. 
            
            **Syntax**
-           > **boolean** variable_name
-          
+           ```
+               boolean variableName
+          ```
            **Size**
-           > 1 bit
-
-           **value**
-           > false
-
+           ```
+               1 bit
+           ```
+           **values**
+           ```
+               true, false
+            ```
            **Default value**
-           > true/false
-                              
+           ```
+               false
+            ```                  
       1. **byte data type :** The byte data type is an 8-bit signed two’s complement integer. This data type is use for same the memory in large arrays.
            
            **Syntax**
-           > **byte** variable_name
-          
+           ```
+               byte variableName
+          ```
            **Size**
-           > 1 byte
-
-            **value**
-           > -128 to 127
-
+           ```
+               1 byte (8 bits)
+           ```
+            **values**
+            ```
+               -128 to 127
+            ```
            **Default value**
-           > 0
-
+           ```
+                0
+          ```
       1. **char data type :** The char data type is a single 16-bit Unicode character.
            
            **Syntax**
-           > **char** variable_name
-          
+           ```
+                char variableName
+          ```
            **Size**
-           > 2 byte
-
-            **value**
-           > '\u0000' (0) to '\uffff' (65535)
-
+           ```
+                2 byte (16 bits)
+            ```
+            **values**
+            ```
+                '\u0000' (0) to '\uffff' (65535)
+            ```
            **Default value**
-           > '\u0000'
-
+           ```
+                '\u0000'
+           ```
       1. **short data type :** The short data type is a 16-bit signed two’s complement intege. The short data type can also be used to save memory just like byte                                data type.Short data type is 2 time smaller the integer.
            
            **Syntax**
-           > **char** variable_name
-          
+           ```
+                short variableName
+           ```
            **Size**
-           > 2 byte
-
-            **value**
-           > -32, 768 to 32, 767
-
+           ```
+                2 byte
+           ```
+            **values**
+           ```
+                -32, 768 to 32, 767
+           ```
 
            **Default value**
-           > 0
-
+          ```
+                0
+           ```
       1. **int data type :** It is a 32-bit signed two’s complement integer.
            
            **Syntax**
-           > **int** variable_name
-          
+           ```
+                int variableName
+          ```
            **Size**
-           > 4 byte
-
-            **value**
-           > -2, 147, 483, 648 to 2, 147, 483, 647 
-
+           ```
+                4 byte (32 bits)
+           ```
+            **values**
+            ```
+                -2, 147, 483, 648 to 2, 147, 483, 647 
+            ```
 
            **Default value**
-           > 0
-                               
+           ```
+                 0
+            ```                   
       1. **long data type :** The long data type is a 64-bit two’s complement integer.
            
            **Syntax**
-           > **long** variable_name
-          
+            ```
+                long variableName
+          ```
            **Size**
-           > 8 byte
-
-            **value**
-           > -9, 223, 372, 036, 854, 775, 808 
-           >   to 
-           >  9, 223, 372, 036, 854, 775, 807 
-
+           ```
+                8 byte (64 bits)
+           ```
+            **values**
+            ```
+               -9, 223, 372, 036, 854, 775, 808 
+                to 
+                9, 223, 372, 036, 854, 775, 807 
+          ```
            **Default value**
-           > 0    
-
+           ```
+                0    
+           ```
                      
      1. **float data type :** The float data type is a single-precision 32-bit IEEE 754 floating-point.
            
            **Syntax**
-           > **float** variable_name
-          
+           ```
+                float variableName
+          ```
            **Size**
-           > 4 byte
-
-           **value**
-           > upto 7 decimal digits
-
+           ```
+                4 byte (32 bits)
+           ```
+           **values**
+           ```
+                upto 7 decimal digits
+           ```
            **Default value**
-           > 0.0                                      
+           ```
+                0.0
+            ```                                      
                   
      1. **double data type :** The double data type is a double-precision 64-bit IEEE 754 floating-point.
            
            **Syntax**
-           > **double** variable_name
-          
+           ```
+                double variableName
+          ```
            **Size**
-           > 8 byte
-
-           **value**
-           > upto 16 decimal digits
-
+           ```
+                8 byte (64 bits)
+           ```
+           **values**
+           ```
+                upto 16 decimal digits
+           ``` 
            **Default value**
-           > 0.0  
-
+           ```
+                0.0  
+          ```
    2.**Non Primitive data type :**  The non-primitive data types include classes, interfaces and Arrays etc.
                                
       1. **Class :** A class is a user-defined blueprint or prototype from which objects are created.  It represents the set of properties or methods that are common to all objects of one type.class declarations can include these components as given below
