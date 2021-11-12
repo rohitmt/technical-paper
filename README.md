@@ -28,7 +28,7 @@ Data types specifies the different size and values that can be stored in the var
            **Default value :**
            ```
                false
-            ```      
+           ```
             
       1. **byte data type :** The byte data type is an 8-bit signed two’s complement integer. This data type is use for same the memory in large arrays.
            
