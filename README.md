@@ -5,11 +5,12 @@ Basics of java datatype and data structure
 
 # Data Type 
 Data types specifies the different size and values that can be stored in the variable.There are two types of data types in java.
+
 1. Primitive data type
 2. Non-Primitive data type
 
    1.**Primitive data type :**  Primitive data types are basic building block to store and manipulation the data in java.There are 
-                              8 types as given below.
+                                8 types as given below.
                                
       1. **boolean data type :** boolean store only one bit of information either true or false. 
            
@@ -30,7 +31,8 @@ Data types specifies the different size and values that can be stored in the var
                false
            ```
             
-      1. **byte data type :** The byte data type is an 8-bit signed two’s complement integer. This data type is use for same the memory in large arrays.
+      1. **byte data type :** The byte data type is an 8-bit signed two’s complement integer. This data type is use for same the 
+                              memory in large arrays.
            
            **Syntax :**
            ```
@@ -66,7 +68,8 @@ Data types specifies the different size and values that can be stored in the var
            ```
                 '\u0000'
            ```
-      1. **short data type :** The short data type is a 16-bit signed two’s complement intege. The short data type can also be used to save memory just like byte                                data type.Short data type is 2 time smaller the integer.
+      1. **short data type :** The short data type is a 16-bit signed two’s complement intege. The short data type can also be 
+                               used to save memory just like byte data type.Short data type is 2 time smaller the integer.
            
            **Syntax :**
            ```
@@ -164,7 +167,9 @@ Data types specifies the different size and values that can be stored in the var
           ```
    2.**Non Primitive data type :**  The non-primitive data types include classes, interfaces and Arrays etc.
                                
-      1. **Class :** A class is a user-defined blueprint or prototype from which objects are created.  It represents the set of properties or methods that are common to all objects of one type.class declarations can include these components as given below
+      1. **Class :** A class is a user-defined blueprint or prototype from which objects are created.  It represents the 
+                     set of properties or methods that are common to all objects of one type.class declarations can 
+                     include these components as given below
            
            **. Modifier :** A class can be public or has default access.
            
