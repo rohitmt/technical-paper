@@ -31,7 +31,7 @@ Data types specifies the different size and values that can be stored in the var
                false
            ```
             
-      1. **byte data type :** The byte data type is an 8-bit signed two’s complement integer. This data type is use for same the 
+      1. **byte data type :** The byte data type is an 8-bit signed two’s complement integer. This data type is use for save the 
                               memory in large arrays.
            
            **Syntax :**
@@ -68,7 +68,7 @@ Data types specifies the different size and values that can be stored in the var
            ```
                 '\u0000'
            ```
-      1. **short data type :** The short data type is a 16-bit signed two’s complement intege. The short data type can also be 
+      1. **short data type :** The short data type is a 16-bit signed 2’s complement integer. The short data type can also be 
                                used to save memory just like byte data type.Short data type is 2 time smaller the integer.
            
            **Syntax :**
@@ -88,7 +88,7 @@ Data types specifies the different size and values that can be stored in the var
           ```
                 0
            ```
-      1. **int data type :** It is a 32-bit signed two’s complement integer.
+      1. **int data type :** It is a 32-bit signed 2’s complement integer.
            
            **Syntax :**
            ```
@@ -107,7 +107,7 @@ Data types specifies the different size and values that can be stored in the var
            ```
                  0
             ```                   
-      1. **long data type :** The long data type is a 64-bit two’s complement integer.
+      1. **long data type :** The long data type is a 64-bit 2’s complement integer.
            
            **Syntax :**
             ```
@@ -193,11 +193,11 @@ Data types specifies the different size and values that can be stored in the var
 A data structure is perticular way of organizing the data in computer so that we can perform operation on data and get the desired 
 output.There are two types of data structures.
 
-1.**Primitive data structure :** The primitive data structures are primitive data types. The int, char, float, double, and pointer
+1.**Primitive data structure :** The primitive data structures are primitive data types. The boolean, byte, int, char, float, double, and long
                                  are the primitive data structures that can hold a single value.
 
-2.**Non Primitive data structure :** Non-Primitive data structure is divided into two types.
-
+2.**Non Primitive data structure :** Non-Primitive data structure is divided such as given below.
+    
 - Array
 - LinkedList
 - Stack
