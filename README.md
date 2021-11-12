@@ -195,6 +195,10 @@ A data structure is perticular way of organizing the data in computer so that we
 - Tree
 - Graph
 - Set
+
+ ![Data Structure](	https://media.geeksforgeeks.org/wp-content/uploads/20191010170332/Untitled-Diagram-183.png)
+
+
 ---
 
 **REFERENCES :** [GeeksforGeeks](https://www.geeksforgeeks.org/data-types-in-java/)
