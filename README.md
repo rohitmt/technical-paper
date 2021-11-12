@@ -175,21 +175,26 @@ Data types specifies the different size and values that can be stored in the var
            
            **. Class name :** The name should begin with a initial letter (capitalized by convention).
            
-           **. Super class(if any) :** The name of the class’s parent (superclass), if any, preceded by the keyword extends. A class can only extend (subclass) one parent.
+           **. Super class(if any) :** The name of the class’s parent (superclass), if any, preceded by the keyword extends. 
+                                       A class can only extend (subclass) one parent.
            
-           **. interface(if any) :** A comma-separated list of interfaces implemented by the class, if any, preceded by the keyword implements. A class can implement more than one interface.
+           **. interface(if any) :** A comma-separated list of interfaces implemented by the class, if any, preceded by the 
+                                     keyword implements. A class can implement more than one interface.
                                
            **. Body :** The class body surrounded by braces, { }.
   
       2. **Array :** An array is a collection of similar type of elements which has contiguous memory location.  
       
-      3. **Object :** It is a basic unit of Object-Oriented Programming and represents the real-life entities.It contains state as instance variable and behaviour as method.                       
+      3. **Object :** It is a basic unit of Object-Oriented Programming and represents the real-life entities.It contains state 
+                      as instance variable and behaviour as method.                       
       
 # Data Structure
 
-A data structure is perticular way of organizing the data in computer so that we can perform operation on data and get the desired output.There are two types of data structures.
+A data structure is perticular way of organizing the data in computer so that we can perform operation on data and get the desired 
+output.There are two types of data structures.
 
-1.**Primitive data structure :** The primitive data structures are primitive data types. The int, char, float, double, and pointer are the primitive data structures that can hold a single value.
+1.**Primitive data structure :** The primitive data structures are primitive data types. The int, char, float, double, and pointer
+                                 are the primitive data structures that can hold a single value.
 
 2.**Non Primitive data structure :** Non-Primitive data structure is divided into two types.
 
