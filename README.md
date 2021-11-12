@@ -13,152 +13,152 @@ Data types specifies the different size and values that can be stored in the var
                                
       1. **boolean data type :** boolean store only one bit of information either true or false. 
            
-           **Syntax**
+           **Syntax :**
            ```
                boolean variableName
           ```
-           **Size**
+           **Size :**
            ```
                1 bit
            ```
-           **values**
+           **values :**
            ```
                true, false
             ```
-           **Default value**
+           **Default value :**
            ```
                false
             ```      
             
       1. **byte data type :** The byte data type is an 8-bit signed two’s complement integer. This data type is use for same the memory in large arrays.
            
-           **Syntax**
+           **Syntax :**
            ```
                byte variableName
           ```
-           **Size**
+           **Size :**
            ```
                1 byte (8 bits)
            ```
-            **values**
+            **values :**
             ```
                -128 to 127
             ```
-           **Default value**
+           **Default value :**
            ```
                 0
           ```
       1. **char data type :** The char data type is a single 16-bit Unicode character.
            
-           **Syntax**
+           **Syntax :**
            ```
                 char variableName
           ```
-           **Size**
+           **Size :**
            ```
                 2 byte (16 bits)
             ```
-            **values**
+            **values :**
             ```
                 '\u0000' (0) to '\uffff' (65535)
             ```
-           **Default value**
+           **Default value :**
            ```
                 '\u0000'
            ```
       1. **short data type :** The short data type is a 16-bit signed two’s complement intege. The short data type can also be used to save memory just like byte                                data type.Short data type is 2 time smaller the integer.
            
-           **Syntax**
+           **Syntax :**
            ```
                 short variableName
            ```
-           **Size**
+           **Size :**
            ```
                 2 byte
            ```
-            **values**
+            **values :**
            ```
                 -32, 768 to 32, 767
            ```
 
-           **Default value**
+           **Default value :**
           ```
                 0
            ```
       1. **int data type :** It is a 32-bit signed two’s complement integer.
            
-           **Syntax**
+           **Syntax :**
            ```
                 int variableName
           ```
-           **Size**
+           **Size :**
            ```
                 4 byte (32 bits)
            ```
-            **values**
+            **values :**
             ```
                 -2, 147, 483, 648 to 2, 147, 483, 647 
             ```
 
-           **Default value**
+           **Default value :**
            ```
                  0
             ```                   
       1. **long data type :** The long data type is a 64-bit two’s complement integer.
            
-           **Syntax**
+           **Syntax :**
             ```
                 long variableName
           ```
-           **Size**
+           **Size :**
            ```
                 8 byte (64 bits)
            ```
-            **values**
+            **values :**
             ```
                -9, 223, 372, 036, 854, 775, 808 
                 to 
                 9, 223, 372, 036, 854, 775, 807 
           ```
-           **Default value**
+           **Default value :**
            ```
                 0    
            ```
                      
      1. **float data type :** The float data type is a single-precision 32-bit IEEE 754 floating-point.
            
-           **Syntax**
+           **Syntax :**
            ```
                 float variableName
           ```
-           **Size**
+           **Size :**
            ```
                 4 byte (32 bits)
            ```
-           **values**
+           **values :**
            ```
                 upto 7 decimal digits
            ```
-           **Default value**
+           **Default value :**
            ```
                 0.0
            ```                                      
                   
      1. **double data type :** The double data type is a double-precision 64-bit IEEE 754 floating-point.
            
-           **Syntax**
+           **Syntax :**
            ```
                 double variableName
           ```
-           **Size**
+           **Size :**
            ```
                 8 byte (64 bits)
            ```
-           **values**
+           **values :**
            ```
                 upto 16 decimal digits
            ``` 
-           **Default value**
+           **Default value :**
            ```
                 0.0  
           ```
