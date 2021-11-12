@@ -22,7 +22,7 @@ Data types specifies the different size and values that can be stored in the var
            ```
                1 bit
            ```
-           **values :**
+           **Values :**
            ```
                true, false
             ```
@@ -42,7 +42,7 @@ Data types specifies the different size and values that can be stored in the var
            ```
                1 byte (8 bits)
            ```
-            **values :**
+            **Values :**
             ```
                -128 to 127
             ```
@@ -60,7 +60,7 @@ Data types specifies the different size and values that can be stored in the var
            ```
                 2 byte (16 bits)
             ```
-            **values :**
+            **Values :**
             ```
                 '\u0000' (0) to '\uffff' (65535)
             ```
@@ -79,7 +79,7 @@ Data types specifies the different size and values that can be stored in the var
            ```
                 2 byte
            ```
-            **values :**
+            **Values :**
            ```
                 -32, 768 to 32, 767
            ```
@@ -98,7 +98,7 @@ Data types specifies the different size and values that can be stored in the var
            ```
                 4 byte (32 bits)
            ```
-            **values :**
+            **Values :**
             ```
                 -2, 147, 483, 648 to 2, 147, 483, 647 
             ```
@@ -117,7 +117,7 @@ Data types specifies the different size and values that can be stored in the var
            ```
                 8 byte (64 bits)
            ```
-            **values :**
+            **Values :**
             ```
                -9, 223, 372, 036, 854, 775, 808 
                 to 
@@ -138,7 +138,7 @@ Data types specifies the different size and values that can be stored in the var
            ```
                 4 byte (32 bits)
            ```
-           **values :**
+           **Values :**
            ```
                 upto 7 decimal digits
            ```
@@ -157,7 +157,7 @@ Data types specifies the different size and values that can be stored in the var
            ```
                 8 byte (64 bits)
            ```
-           **values :**
+           **Values :**
            ```
                 upto 16 decimal digits
            ``` 
