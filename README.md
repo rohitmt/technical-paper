@@ -141,7 +141,7 @@ Data types specifies the different size and values that can be stored in the var
            **Default value**
            ```
                 0.0
-            ```                                      
+           ```                                      
                   
      1. **double data type :** The double data type is a double-precision 64-bit IEEE 754 floating-point.
            
